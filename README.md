@@ -1,4 +1,4 @@
-We have designed an app named "Femme-Power". Our App will help to empower women and enable economic freedom for women, thereby eradicating unemployment and encouraging women entrepreneurship. Here's the link to our app:- https://team-psych.netlify.app
+This project is an e-commerce website built using React.js, aimed at providing a seamless online shopping experience. It offers a user-friendly interface for customers to browse products, add them to their cart, and complete their purchase securely. The website also includes key features such as product catalogue, Shopping Cart, Billing form and address , Secure Checkout for managing products and orders.
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
